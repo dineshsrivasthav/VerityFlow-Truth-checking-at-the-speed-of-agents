@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+httpx
+sentence-transformers
+transformers
+scikit-learn
+numpy
+networkx
+validators
+torch
