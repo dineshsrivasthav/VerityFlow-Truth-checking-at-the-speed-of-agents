@@ -1,0 +1,249 @@
+{
+  "query": "Is Strait of Hormuz closed?",
+  "event_date": "2026-05-06",
+  "validated_articles": [
+    {
+      "article_id": "bb28281dbe847dcb",
+      "source_type": "news",
+      "publisher_reputation": {
+        "url_verification": 1.0,
+        "domain_verification": 0.65,
+        "site_trustworthiness": 0.7725,
+        "score": 0.7725
+      },
+      "provenance_originality": {
+        "lineage_score": 0.8,
+        "temporal_score": 0.9,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7175
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.6676,
+      "decision": "uncertain",
+      "is_valid": false
+    },
+    {
+      "article_id": "ba8ac53cdf490691",
+      "source_type": "news",
+      "publisher_reputation": {
+        "url_verification": 1.0,
+        "domain_verification": 0.65,
+        "site_trustworthiness": 0.7725,
+        "score": 0.7725
+      },
+      "provenance_originality": {
+        "lineage_score": 0.8,
+        "temporal_score": 1.0,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7475
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.6751,
+      "decision": "uncertain",
+      "is_valid": false
+    },
+    {
+      "article_id": "e579a079ad4a1b15",
+      "source_type": "news",
+      "publisher_reputation": {
+        "url_verification": 1.0,
+        "domain_verification": 0.7,
+        "site_trustworthiness": 0.7925,
+        "score": 0.7925
+      },
+      "provenance_originality": {
+        "lineage_score": 0.9,
+        "temporal_score": 1.0,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7775
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.6886,
+      "decision": "valid",
+      "is_valid": true
+    },
+    {
+      "article_id": "b5079f5788b5dd66",
+      "source_type": "government",
+      "publisher_reputation": {
+        "url_verification": 1.0,
+        "domain_verification": 0.95,
+        "site_trustworthiness": 0.95,
+        "score": 0.96
+      },
+      "provenance_originality": {
+        "lineage_score": 0.8,
+        "temporal_score": 0.9,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7175
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.7239,
+      "decision": "valid",
+      "is_valid": true
+    },
+    {
+      "article_id": "73aab219b9eb9dbd",
+      "source_type": "government",
+      "publisher_reputation": {
+        "url_verification": 1.0,
+        "domain_verification": 0.95,
+        "site_trustworthiness": 0.95,
+        "score": 0.96
+      },
+      "provenance_originality": {
+        "lineage_score": 0.8,
+        "temporal_score": 1.0,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7475
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.7314,
+      "decision": "valid",
+      "is_valid": true
+    },
+    {
+      "article_id": "c3c5f10dc91e9c34",
+      "source_type": "government",
+      "publisher_reputation": {
+        "url_verification": 1.0,
+        "domain_verification": 0.95,
+        "site_trustworthiness": 0.95,
+        "score": 0.96
+      },
+      "provenance_originality": {
+        "lineage_score": 1.0,
+        "temporal_score": 0.9,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7775
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.7389,
+      "decision": "valid",
+      "is_valid": true
+    },
+    {
+      "article_id": "d77953b90e54fb34",
+      "source_type": "trade_bodies",
+      "publisher_reputation": {
+        "url_verification": 0.95,
+        "domain_verification": 0.85,
+        "site_trustworthiness": 0.88,
+        "score": 0.89
+      },
+      "provenance_originality": {
+        "lineage_score": 0.8,
+        "temporal_score": 1.0,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7475
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.7104,
+      "decision": "valid",
+      "is_valid": true
+    },
+    {
+      "article_id": "0cfeb9b1b8788cd5",
+      "source_type": "trade_bodies",
+      "publisher_reputation": {
+        "url_verification": 0.95,
+        "domain_verification": 0.85,
+        "site_trustworthiness": 0.88,
+        "score": 0.89
+      },
+      "provenance_originality": {
+        "lineage_score": 0.8,
+        "temporal_score": 1.0,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7475
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.7104,
+      "decision": "valid",
+      "is_valid": true
+    },
+    {
+      "article_id": "4175dbaadc7bd463",
+      "source_type": "trade_bodies",
+      "publisher_reputation": {
+        "url_verification": 0.95,
+        "domain_verification": 0.85,
+        "site_trustworthiness": 0.88,
+        "score": 0.89
+      },
+      "provenance_originality": {
+        "lineage_score": 0.85,
+        "temporal_score": 0.9,
+        "content_originality": 0.5,
+        "structural_completeness": 0.55,
+        "score": 0.7325
+      },
+      "cross_source_corroboration": {
+        "source_diversity": 1.0,
+        "inter_article_similarity": 0.35,
+        "nli_support": 0.5,
+        "graph_consensus": 0.5,
+        "score": 0.57
+      },
+      "final_trust_score": 0.7066,
+      "decision": "valid",
+      "is_valid": true
+    }
+  ]
+}

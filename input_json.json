@@ -1,0 +1,91 @@
+{
+  "query": "Is Strait of Hormuz closed?",
+  "event_date": "2026-05-06",
+  "news": [
+    {
+      "title": "Strait of Hormuz Remains Open Despite Increased Tensions",
+      "source": "Reuters",
+      "event_date": "2026-05-05",
+      "date_published": "2026-05-05T14:32:00Z",
+      "content": "Maritime traffic through the Strait of Hormuz continued normally on Tuesday, despite recent military posturing by regional powers. Tanker tracking data shows no disruption in oil shipments.",
+      "summary": "Strait remains open; oil flow unaffected as of early May.",
+      "url": "https://www.reuters.com/world/middle-east/strait-hormuz-remains-open-despite-increased-tensions-2026-05-05"
+    },
+    {
+      "title": "Iran Signals Potential Blockade, but No Closure Yet",
+      "source": "Al Jazeera",
+      "event_date": "2026-05-04",
+      "date_published": "2026-05-04T09:15:00Z",
+      "content": "Iranian officials warned of possible retaliation in the strait, but no physical blockade has been implemented. Shipping sources confirm transit is ongoing with heightened insurance premiums.",
+      "summary": "Threats of closure but no actual blockade reported.",
+      "url": "https://www.aljazeera.com/news/2026/05/iran-signals-blockade-strait-hormuz"
+    },
+    {
+      "title": "US Navy Confirms Free Navigation in Strait of Hormuz",
+      "source": "AP News",
+      "event_date": "2026-05-03",
+      "date_published": "2026-05-03T22:00:00Z",
+      "content": "The US Fifth Fleet stated that the Strait of Hormuz remains open to international shipping. No mines, naval obstructions, or closures have been observed in the past 72 hours.",
+      "summary": "Official confirmation of open passage from US military.",
+      "url": "https://apnews.com/article/us-navy-strait-hormuz-open-2026-05-03"
+    }
+  ],
+  "government": [
+    {
+      "title": "Statement on Maritime Security in the Persian Gulf",
+      "issuer": "U.S. Department of State",
+      "event_date": "2026-05-05",
+      "date_published": "2026-05-05T16:20:00Z",
+      "content": "The United States affirms that the Strait of Hormuz is an international waterway. Any attempt at closure will be met with collective action. Currently, the strait remains open for transit.",
+      "summary": "US confirms strait open; warns against closure attempts.",
+      "url": "https://www.state.gov/maritime-security-statement-hormuz-2026"
+    },
+    {
+      "title": "Iranian Foreign Ministry: No Decision to Close Strait of Hormuz",
+      "issuer": "Islamic Republic of Iran Foreign Ministry",
+      "event_date": "2026-05-04",
+      "date_published": "2026-05-04T11:45:00Z",
+      "content": "Iran denies any current closure of the Strait of Hormuz, though it reserves the right under international law if national security is threatened. Shipping lanes are open for now.",
+      "summary": "Iran says no closure in effect, but implies future possibility.",
+      "url": "https://mfa.gov.ir/statement-hormuz-20260504"
+    },
+    {
+      "title": "UK Government Advice on Transit Through Strait of Hormuz",
+      "issuer": "UK Maritime Trade Operations (UKMTO)",
+      "event_date": "2026-05-03",
+      "date_published": "2026-05-03T08:00:00Z",
+      "content": "UKMTO advises that the Strait of Hormuz remains open. No restrictions on merchant vessels. Military escort is available in the area but no closure has been reported by any regional state.",
+      "summary": "UK confirms open strait; no advisories against transit.",
+      "url": "https://www.ukmto.org/hormuz-advisory-2026"
+    }
+  ],
+  "trade_bodies": [
+    {
+      "title": "International Chamber of Shipping: Strait of Hormuz Operational",
+      "organization": "International Chamber of Shipping (ICS)",
+      "event_date": "2026-05-05",
+      "date_published": "2026-05-05T13:10:00Z",
+      "content": "ICS confirms that the Strait of Hormuz is not closed. Crude oil tankers and LNG carriers are passing normally. Members advised to monitor security updates but no diversion recommended.",
+      "summary": "No closure; trade flows normal, per ICS.",
+      "url": "https://www.ics-shipping.org/hormuz-update-2026"
+    },
+    {
+      "title": "OPEC+ Monitoring: Strait Transit Uninterrupted",
+      "organization": "OPEC Secretariat",
+      "event_date": "2026-05-04",
+      "date_published": "2026-05-04T17:30:00Z",
+      "content": "OPEC+ reports that oil exports via the Strait of Hormuz continue without disruption. All member states with Gulf coastlines confirm the strait remains open for tanker traffic.",
+      "summary": "Oil exports unaffected; strait open per OPEC.",
+      "url": "https://www.opec.org/hormuz-oil-flow-2026"
+    },
+    {
+      "title": "World Trade Organization: No Notification of Strait Closure",
+      "organization": "World Trade Organization (WTO)",
+      "event_date": "2026-05-03",
+      "date_published": "2026-05-03T10:25:00Z",
+      "content": "WTO has received no official notification from Iran or Oman regarding closure of the Strait of Hormuz. Maritime trade routes in the region remain active according to member states.",
+      "summary": "No trade body notified of closure; operations normal.",
+      "url": "https://www.wto.org/hormuz-trade-update-2026"
+    }
+  ]
+}
