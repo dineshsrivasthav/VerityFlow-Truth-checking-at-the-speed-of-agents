@@ -116,24 +116,58 @@ class CrossSourceCorroborationScore(BaseModel):
     score: float
 
 
+# # ============================================================
+# # FINAL REPORT
+# # ============================================================
+
+# class ArticleValidationReport(BaseModel):
+#     article_id: str
+#     source_type: SourceType
+
+#     publisher_reputation: PublisherReputationScore
+#     provenance_originality: ProvenanceOriginalityScore
+#     cross_source_corroboration: CrossSourceCorroborationScore
+
+#     final_trust_score: float
+#     decision: ValidationDecision
+#     is_valid: bool
+
+
+# class AssuranceOutput(BaseModel):
+#     query: str
+#     event_date: date
+#     validated_articles: List[ArticleValidationReport]
+
+
 # ============================================================
-# FINAL REPORT
+# FINAL OUTPUT ARTICLE MODELS
 # ============================================================
 
-class ArticleValidationReport(BaseModel):
-    article_id: str
-    source_type: SourceType
-
-    publisher_reputation: PublisherReputationScore
-    provenance_originality: ProvenanceOriginalityScore
-    cross_source_corroboration: CrossSourceCorroborationScore
-
+class NewsArticleOutput(NewsArticle):
     final_trust_score: float
-    decision: ValidationDecision
     is_valid: bool
 
+
+class GovernmentArticleOutput(GovernmentArticle):
+    final_trust_score: float
+    is_valid: bool
+
+
+class TradeBodyArticleOutput(TradeBodyArticle):
+    final_trust_score: float
+    is_valid: bool
+
+
+# ============================================================
+# FINAL OUTPUT ROOT SCHEMA
+# ============================================================
 
 class AssuranceOutput(BaseModel):
     query: str
     event_date: date
-    validated_articles: List[ArticleValidationReport]
+
+    news: List[NewsArticleOutput] = Field(default_factory=list)
+
+    government: List[GovernmentArticleOutput] = Field(default_factory=list)
+
+    trade_bodies: List[TradeBodyArticleOutput] = Field(default_factory=list)

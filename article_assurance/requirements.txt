@@ -10,3 +10,23 @@ numpy
 networkx
 validators
 torch
+
+# pyproject.toml:
+# requires-python = ">=3.12 (3.12.4)"
+# dependencies = [
+#     "accelerate==1.13.0",      
+#     "fastapi==0.136.0",
+#     "httpx==0.28.1",           
+#     "networkx==3.6.1",
+#     "numpy==2.4.4",            
+#     "pandas==3.0.2",             
+#     "pydantic==2.13.3",
+#     "pydantic-core==2.46.3",      
+#     "pydantic-settings==2.14.0",
+#     "scikit-learn==1.8.0",
+#     "sentence-transformers==5.4.1",
+#     "torch==2.11.0",
+#     "transformers==5.5.4",
+#     "uvicorn==0.45.0",
+#     "validators>=0.34.0",      
+# ]
